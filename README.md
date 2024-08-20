@@ -1,10 +1,7 @@
 # Hello Devs!! 💞️
 Welcome to my profile :)
 I'm Maria Luísa, Computer Science student.
-
-  <div>
-    📫To contact me: <a href = "mailto:marialcantarelli@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+📫To contact me: marialcantarelli@gmail.com
 
 ## Tools and technologies I'm learning:
 
